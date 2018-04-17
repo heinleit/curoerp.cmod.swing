@@ -6,7 +6,7 @@ import jar.cmod.swing.api.exception.MainFrameIndexAlreadyOccupiedException;
 
 public interface IMainWindow {
 	
-	public void show();
+	public void open();
 	
 	//Settings (size, position etc.) => saved
 	public void setSettings(MainWindowSettings settings);

@@ -1,2 +1,4 @@
 name: SwingApi
 version: 1
+dependencies:
+ - Swing

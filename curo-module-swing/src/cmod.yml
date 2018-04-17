@@ -1,2 +1,6 @@
 name: Swing
 version: 1
+typeInfos:
+ - type: jar.cmod.swing.MainWindow
+dependencies:
+ - SwingApi
